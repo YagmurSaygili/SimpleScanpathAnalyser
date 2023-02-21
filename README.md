@@ -21,9 +21,9 @@ To analyse scanpaths based on AOIs, they are first represented as string sequenc
 This application will start by taking the name of the two files from the user where the first file includes a number of scanpaths for people with autism and another one includes a number of scanpaths for people without autism, which are represented as string sequences based on ten AOIs named with digits from zero to 9. These files may include a different number of scanpaths, and each line in these files represent a different scanpath.
 
 You can assume that the maximum length of a scanpath is 100. An example content of a file is given below:
-6547382712384758123
-3547712364687
-847364537292
-9374638473682
+6547382712384758123(end)
+3547712364687(end)
+847364537292(end)
+9374638473682(end)
 
 
